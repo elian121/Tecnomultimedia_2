@@ -1,4 +1,7 @@
-{"data" : [
+{ "modelo":"modelos/modelo2.glb",
+   "audio" : "audios/audio.mp3"
+   
+   "data" : [
    {
         "tiempo":"00:30",
         "camara":"c_1",
